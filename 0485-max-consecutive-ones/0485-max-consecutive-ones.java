@@ -15,7 +15,6 @@ class Solution {
             if(nums[i] == 1)
             {
                 count++;
-                // System.out.println(count +" "+i);
             }
             else{
                 if(max < count)
