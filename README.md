@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1580-shuffle-the-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1580-shuffle-the-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SOUNDAR71/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
