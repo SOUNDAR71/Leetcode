@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SOUNDAR71/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SOUNDAR71/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
