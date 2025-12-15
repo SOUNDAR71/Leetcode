@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/SOUNDAR71/Leetcode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/SOUNDAR71/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
