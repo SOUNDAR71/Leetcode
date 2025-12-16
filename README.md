@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SOUNDAR71/Leetcode/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
