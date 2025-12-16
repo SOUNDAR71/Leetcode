@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1580-shuffle-the-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SOUNDAR71/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SOUNDAR71/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4058-compute-alternating-sum](https://github.com/SOUNDAR71/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Prefix Sum
