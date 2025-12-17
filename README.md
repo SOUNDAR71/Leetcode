@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
+| [0541-reverse-string-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SOUNDAR71/Leetcode/tree/master/0061-rotate-list) |
+| [0541-reverse-string-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Recursion
 |  |
 | ------- |
