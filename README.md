@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1089-duplicate-zeros](https://github.com/SOUNDAR71/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1580-shuffle-the-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/SOUNDAR71/Leetcode/tree/master/0061-rotate-list) |
 | [0541-reverse-string-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0541-reverse-string-ii) |
+| [1089-duplicate-zeros](https://github.com/SOUNDAR71/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Recursion
 |  |
 | ------- |
