@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/SOUNDAR71/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1580-shuffle-the-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1929-concatenation-of-array) |
 | [4058-compute-alternating-sum](https://github.com/SOUNDAR71/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/SOUNDAR71/Leetcode/tree/master/0061-rotate-list) |
 | [0541-reverse-string-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/SOUNDAR71/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Recursion
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SOUNDAR71/Leetcode/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
