@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/SOUNDAR71/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SOUNDAR71/Leetcode/tree/master/0326-power-of-three) |
+| [1390-four-divisors](https://github.com/SOUNDAR71/Leetcode/tree/master/1390-four-divisors) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SOUNDAR71/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SOUNDAR71/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SOUNDAR71/Leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/SOUNDAR71/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1390-four-divisors](https://github.com/SOUNDAR71/Leetcode/tree/master/1390-four-divisors) |
 | [1580-shuffle-the-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
