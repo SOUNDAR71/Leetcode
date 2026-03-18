@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SOUNDAR71/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SOUNDAR71/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SOUNDAR71/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3668-restore-finishing-order](https://github.com/SOUNDAR71/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SOUNDAR71/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4058-compute-alternating-sum](https://github.com/SOUNDAR71/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Prefix Sum
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SOUNDAR71/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/SOUNDAR71/Leetcode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
