@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SOUNDAR71/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/SOUNDAR71/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/SOUNDAR71/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [4058-compute-alternating-sum](https://github.com/SOUNDAR71/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
+| [3612-process-string-with-special-operations-i](https://github.com/SOUNDAR71/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
