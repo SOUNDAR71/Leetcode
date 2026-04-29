@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SOUNDAR71/Leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/SOUNDAR71/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SOUNDAR71/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
