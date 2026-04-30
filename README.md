@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SOUNDAR71/Leetcode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0832-flipping-an-image](https://github.com/SOUNDAR71/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SOUNDAR71/Leetcode/tree/master/0867-transpose-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/SOUNDAR71/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SOUNDAR71/Leetcode/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SOUNDAR71/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SOUNDAR71/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/SOUNDAR71/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SOUNDAR71/Leetcode/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/SOUNDAR71/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SOUNDAR71/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SOUNDAR71/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SOUNDAR71/Leetcode/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/SOUNDAR71/Leetcode/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SOUNDAR71/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
